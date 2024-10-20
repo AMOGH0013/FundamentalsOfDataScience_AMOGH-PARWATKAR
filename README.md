@@ -1,6 +1,6 @@
 # fundamentals_of_DS_AMOGH_PARWATKAR-2402
 Lab Journal for fundamentals of data science for semester I.
-* prac1:read csv to plot simple graph on marksheet data.
+* prac1:read csv to plot simple graph on marksheet data.(.02_GraphPlot_1_07_2024).
 * prac2:read consolidated csv to make programe wise student list in seperate files(text).
 * prac3:pipeline process of shopping cart data.
 * prac4:cosolidated calculation for time series data (temperature/day).
